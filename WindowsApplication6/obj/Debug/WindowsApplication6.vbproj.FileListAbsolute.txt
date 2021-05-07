@@ -1,0 +1,30 @@
+C:\Users\rpl1\Documents\Visual Studio 2012\Projects\Latihan1 kelas B\Latihan1 kelas B\My Project\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe.config
+C:\Users\rpl1\Documents\Visual Studio 2012\Projects\Latihan1 kelas B\Latihan1 kelas B\My Project\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+C:\Users\rpl1\Documents\Visual Studio 2012\Projects\Latihan1 kelas B\Latihan1 kelas B\My Project\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+C:\Users\rpl1\Documents\Visual Studio 2012\Projects\Latihan1 kelas B\Latihan1 kelas B\My Project\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+C:\Users\rpl1\Documents\Visual Studio 2012\Projects\Latihan1 kelas B\Latihan1 kelas B\My Project\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Form1.resources
+C:\Users\rpl1\Documents\Visual Studio 2012\Projects\Latihan1 kelas B\Latihan1 kelas B\My Project\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Form2.resources
+C:\Users\rpl1\Documents\Visual Studio 2012\Projects\Latihan1 kelas B\Latihan1 kelas B\My Project\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Resources.resources
+C:\Users\rpl1\Documents\Visual Studio 2012\Projects\Latihan1 kelas B\Latihan1 kelas B\My Project\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.vbproj.GenerateResource.Cache
+C:\Users\rpl1\Documents\Visual Studio 2012\Projects\Latihan1 kelas B\Latihan1 kelas B\My Project\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+C:\Users\rpl1\Documents\Visual Studio 2012\Projects\Latihan1 kelas B\Latihan1 kelas B\My Project\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+C:\Users\rpl1\Documents\Visual Studio 2012\Projects\Latihan1 kelas B\Latihan1 kelas B\My Project\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
+C:\Users\rpl1\Desktop\1901010211_Lalu Widya Ananda Pratama\WindowsApplication6\bin\Debug\WindowsApplication6.exe.config
+C:\Users\rpl1\Desktop\1901010211_Lalu Widya Ananda Pratama\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+C:\Users\rpl1\Desktop\1901010211_Lalu Widya Ananda Pratama\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+C:\Users\rpl1\Desktop\1901010211_Lalu Widya Ananda Pratama\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
+C:\Users\rpl1\Documents\Visual Studio 2012\Projects\Latihan1 kelas B\Latihan1 kelas B\My Project\1901010211_Lalu Widya Ananda Pratama1901010211_Lalu Widya Ananda Pratama\WindowsApplication6\bin\Debug\WindowsApplication6.exe.config
+C:\Users\rpl1\Documents\Visual Studio 2012\Projects\Latihan1 kelas B\Latihan1 kelas B\My Project\1901010211_Lalu Widya Ananda Pratama1901010211_Lalu Widya Ananda Pratama\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+C:\Users\rpl1\Documents\Visual Studio 2012\Projects\Latihan1 kelas B\Latihan1 kelas B\My Project\1901010211_Lalu Widya Ananda Pratama1901010211_Lalu Widya Ananda Pratama\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+C:\Users\rpl1\Documents\Visual Studio 2012\Projects\Latihan1 kelas B\Latihan1 kelas B\My Project\1901010211_Lalu Widya Ananda Pratama1901010211_Lalu Widya Ananda Pratama\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
+C:\Users\rpl1\Documents\Visual Studio 2012\Projects\Latihan1 kelas B\Latihan1 kelas B\My Project\1901010263_M.Hidayatullah\WindowsApplication6\bin\Debug\WindowsApplication6.exe.config
+C:\Users\rpl1\Documents\Visual Studio 2012\Projects\Latihan1 kelas B\Latihan1 kelas B\My Project\1901010263_M.Hidayatullah\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+C:\Users\rpl1\Documents\Visual Studio 2012\Projects\Latihan1 kelas B\Latihan1 kelas B\My Project\1901010263_M.Hidayatullah\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+C:\Users\rpl1\Documents\Visual Studio 2012\Projects\Latihan1 kelas B\Latihan1 kelas B\My Project\1901010263_M.Hidayatullah\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
+C:\Users\rpl1\Documents\Visual Studio 2012\Projects\Latihan1 kelas B\Latihan1 kelas B\My Project\1901010263_M.Hidayatullah\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+C:\Users\rpl1\Documents\Visual Studio 2012\Projects\Latihan1 kelas B\Latihan1 kelas B\My Project\1901010263_M.Hidayatullah\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+C:\Users\rpl1\Documents\Visual Studio 2012\Projects\Latihan1 kelas B\Latihan1 kelas B\My Project\1901010263_M.Hidayatullah\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+C:\Users\rpl1\Documents\Visual Studio 2012\Projects\Latihan1 kelas B\Latihan1 kelas B\My Project\1901010263_M.Hidayatullah\WindowsApplication6\obj\Debug\WindowsApplication6.Form1.resources
+C:\Users\rpl1\Documents\Visual Studio 2012\Projects\Latihan1 kelas B\Latihan1 kelas B\My Project\1901010263_M.Hidayatullah\WindowsApplication6\obj\Debug\WindowsApplication6.Form2.resources
+C:\Users\rpl1\Documents\Visual Studio 2012\Projects\Latihan1 kelas B\Latihan1 kelas B\My Project\1901010263_M.Hidayatullah\WindowsApplication6\obj\Debug\WindowsApplication6.Resources.resources
+C:\Users\rpl1\Documents\Visual Studio 2012\Projects\Latihan1 kelas B\Latihan1 kelas B\My Project\1901010263_M.Hidayatullah\WindowsApplication6\obj\Debug\WindowsApplication6.vbproj.GenerateResource.Cache
